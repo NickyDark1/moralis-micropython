@@ -1,4 +1,4 @@
-# Moralis - MicroPython
+# Moralis - MicroPython IOT
 
 ![image](https://github.com/user-attachments/assets/59e9277a-826e-4ab2-bd05-d2ef84b6054e)
 
